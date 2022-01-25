@@ -53,3 +53,62 @@ function App() {
 }
 
 export default App;
+
+
+
+//jan add react js file some distrub
+
+// import './App.css';
+// import Login from './Screen/Login';
+// import Classcom from './Component/ClsComponent/Classcom';
+// import Functioncom from './Component/FunComponet/Functioncom';
+// import ClsProps from './Component/ClsComponent/ClsProps';
+// import Reuse from './Component/FunComponet/Reuse';
+// import Home from './React-Router/Home';
+// import Dashboard from './React-Router/Dashboard';
+// import About from './React-Router/About';
+// import Pagenotfound from './React-Router/Pagenotfound';
+// import Unittest from './Screen/Unittest';
+// import Axios  from './Screen/Axios';
+// import Fetch from './Screen/Fetch';
+// import FirebaseFetch from './Screen/FirebaseFetch';
+// import Firehome from './Firebasecurd/Firehome';
+// import Edit from './Firebasecurd/Edit'
+// import Contextapi from './UsecontextAPI/Contextapi';
+
+// import Hocapp from './Screen/Hocapp'
+// import {BrowserRouter,Routes,Route} from 'react-router-dom'
+
+// function App() {
+//   return (
+//     <div className="App">
+
+// <Contextapi/>
+//       <BrowserRouter>
+//       <Routes>
+//         <Route  path='/'  element={<Firehome/>}/>
+//         <Route path='/edit' element={<Edit/>} />
+//       </Routes>
+//       </BrowserRouter>
+     
+     
+//      {/* <Axios/>
+//      <Fetch/>
+//       <h1>chandu</h1>
+//       <h2>Sudha</h2>
+    
+//     <BrowserRouter>
+//     <Routes>
+//       <Route path='/' element={<Home/>} />
+//       <Route path='/dashboard/:name' element={<Dashboard/>}/>
+//       <Route path='/about' element={<About/>}/>
+//       <Route path='*' element={<Pagenotfound/>}/>
+
+//     </Routes>
+//     </BrowserRouter> */}
+
+//     </div>
+//   );
+// }
+
+// export default App;
